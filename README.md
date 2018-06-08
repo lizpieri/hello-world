@@ -1,5 +1,3 @@
 # hello-world
 
-Hi!
-
-Testing 123
+Hi! Testing out my first repository.
